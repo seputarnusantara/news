@@ -2,6 +2,7 @@
 
 <html lang="en-US">
   <head>
+    <meta name="google-site-verification" content="sA6XmGw1GzB2uQjX-X39VOCqnvY6yd7Zzed3mRsFsU0" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
